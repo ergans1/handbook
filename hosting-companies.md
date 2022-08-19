@@ -61,6 +61,7 @@ In alphabetical order:
 * [RoseHosting](https://www.rosehosting.com)
 * [Savvii](https://www.savvii.com/)
 * [ScanNet](https://www.scannet.dk)
+* [Smartertech Hosting Indonesia](https://www.smartertech.id)
 * [Seravo.com](https://seravo.com)
 * [Servebolt.com](https://servebolt.com)
 * [Simply.com](https://www.simply.com)
